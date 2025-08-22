@@ -12,6 +12,11 @@
 <div style="display: inline_block"><br>
   
 <img align="center" alt="Bruno-Python" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" >
-          
+<img align="center" alt="Bruno-Python" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="Bruno-Python" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" alt="Bruno-Python" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="center" alt="Bruno-Python" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align="center" alt="Bruno-Python" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+
 </div>
   
