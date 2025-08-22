@@ -1,5 +1,10 @@
 ## Oii, eu sou o Bruno!
-🎒 Tenho 17 anos e Faço técnico na Etec!
+📚 Atualmente estudando C++ e Sql.
+🎒 Faço técnico na Etec!
+🧑🏻‍💼 Estou a procura de um primeiro Estágio.
+📅 Possuo 17 anos!
+🏐 Sou Atleta de vôlei de praia.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMerullo&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMerullo&langs_count=8)
