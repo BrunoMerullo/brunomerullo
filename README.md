@@ -1,9 +1,9 @@
 ## Oii, eu sou o Bruno!
-📚 Atualmente estudando C++ e Sql.
-🎒 Faço técnico na Etec!
-🧑🏻‍💼 Estou a procura de um primeiro Estágio.
-📅 Possuo 17 anos!
-🏐 Sou Atleta de vôlei de praia.
+- 📚 Atualmente estudando C++ e Sql.
+- 🎒 Faço técnico na Etec!
+- 🧑🏻‍💼 Estou a procura de um primeiro Estágio.
+- 📅 Possuo 17 anos!
+- 🏐 Sou Atleta de vôlei de praia.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMerullo&show_icons=true&theme=dark)
